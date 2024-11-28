@@ -16,12 +16,12 @@ import ReactNativeAsyncStorage from '@react-native-async-storage/async-storage'
 // };
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyDxxuZo8QNap1xhkazG2Ixd5YcoQ1Zmjxs",
-    authDomain: "react-native-auth-demo-af947.firebaseapp.com",
-    projectId: "react-native-auth-demo-af947",
-    storageBucket: "react-native-auth-demo-af947.firebasestorage.app",
-    messagingSenderId: "724044393870",
-    appId: "1:724044393870:web:035c04b627e59c35ed48df"
+    // apiKey: "AIzaSyDxxuZo8QNap1xhkazG2Ixd5YcoQ1Zmjxs",
+    // authDomain: "react-native-auth-demo-af947.firebaseapp.com",
+    // projectId: "react-native-auth-demo-af947",
+    // storageBucket: "react-native-auth-demo-af947.firebasestorage.app",
+    // messagingSenderId: "724044393870",
+    // appId: "1:724044393870:web:035c04b627e59c35ed48df"
 };
 let auth;
 if (getApps().length == 0) {
